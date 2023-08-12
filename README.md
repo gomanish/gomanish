@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A full stack developmer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Python, JavaScript, C++, Arduino**
+- 💬 Ask me about **Python, JavaScript, C++, Arduino, SQL**
 
 - 📫 How to reach me **www.linkedin.com/in/gomanish/**
 
