@@ -17,10 +17,10 @@
   <a href="https://www.linkedin.com/in/gomanish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:aditya98gupta@gmail.com" target="_blank">
+  <a href="mailto:krmanish2101@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-krmanish2101%40gmail.com-red?logo=gmail" alt="Gmail">
   </a>
-  <a href="tel:+919643652605" target="_blank">
+  <a href="tel:+919470226540" target="_blank">
     <img src="https://img.shields.io/badge/Call%20Me-9470226540-brightgreen?logo=phone" alt="Phone">
   </a>
 </p>
