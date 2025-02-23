@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A full stack developmer from India</h3>
 
-- 💬 Ask me about **Python, JavaScript, C++, Arduino, SQL**
+- 🔭 I’m currently working as a Senior Software Developer.
+- 📫 How to reach me: krmanish2101@gmail.com
+-  💬 Ask me about **Python, JavaScript, C++, Arduino, SQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +27,17 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  </p>
 
+<h3 align="left">Github Trophy:</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=gomanish&theme=onedark)
+
+ <h3 align="left">🏆 Github Status:</h3>
+<a href='https://github.com/shank885'>
+    <img alighn="center" src="https://github-readme-stats.vercel.app/api?username=gomanish&show_icons=true&theme=dark&count_private=true" alt="centered image" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomanish&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gomanish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">📫 How to Reach Me</h3>
@@ -35,12 +48,9 @@
   <a href="mailto:krmanish2101@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-krmanish2101%40gmail.com-red?logo=gmail" alt="Gmail">
   </a>
-  <a href="tel:+919470226540" target="_blank">
-    <img src="https://img.shields.io/badge/Call%20Me-9470226540-brightgreen?logo=phone" alt="Phone">
-  </a>
 </p>
 
-<h3 align="left">Fun Fact:</h3>
+<h3 align="left">⚡ Fun Fact:</h3>
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Code%2C+Test%2C+Break%2C+Repeat!;Coffee+%2B+Code+%3D+Productivity!+☕;First+I+write+the+bug...+then+I+fix+it+🐛" 
