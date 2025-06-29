@@ -52,9 +52,6 @@
 
 <h3 align="left">⚡ Fun Fact:</h3>
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Code%2C+Test%2C+Break%2C+Repeat!;Coffee+%2B+Code+%3D+Productivity!+☕;First+I+write+the+bug...+then+I+fix+it+🐛" 
-    alt="Typing animation"
-  >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=450&lines=Code%2C+Test%2C+Break%2C+Repeat!;Coffee+%2B+Code+%3D+Productivity!+☕;First+I+write+the+bug...+then+I+fix+it+🐛" alt="Typing SVG" />
 </p>
 
