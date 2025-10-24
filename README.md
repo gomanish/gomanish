@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developmer from India</h3>
 
 - 🔭 I’m currently working as a Senior Software Developer.
-- 📫 How to reach me: krmanish2101@gmail.com
+- 📫 How to reach me: gomanish@zohomail.in
 -  💬 Ask me about **Python, JavaScript, C++, Arduino, SQL**
 
 
