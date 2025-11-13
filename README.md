@@ -45,8 +45,8 @@
   <a href="https://www.linkedin.com/in/gomanish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:krmanish2101@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-krmanish2101%40gmail.com-red?logo=gmail" alt="Gmail">
+  <a href="mailto:gomanish@zohomail.in" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-gomanish%40zohomail.in-red?logo=gmail" alt="Gmail">
   </a>
 </p>
 
